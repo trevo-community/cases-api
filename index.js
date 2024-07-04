@@ -1,6 +1,6 @@
 /// lembre-se de fazer as adaptações necessárias para funcionar 
 // TROQUE O USERNAME E A KEY 
-
+// clover mods
 // clover-t-bot.onrender.com 
 
 case "playvideo":
